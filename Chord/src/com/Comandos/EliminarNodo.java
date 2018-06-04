@@ -2,6 +2,7 @@ package com.Comandos;
 
 import com.ControladoresRed.ConexionUtils;
 import com.ControladoresRed.Mensaje;
+import com.Entidades.Estadistica;
 import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
@@ -41,6 +42,7 @@ public class EliminarNodo extends BaseCommand {
           if ((nodo.getDireccion().equals(args[0]))&&(nodo.getPuertopeticion()==Integer.parseInt(args[1]))) {
               index=i;
               System.out.println("El nodo " +args[0] + " ha salido de la red");
+              Estadistica.add_caidos();
           }
           else{
               ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("clean", args[0]+":"+args[1],nodo));

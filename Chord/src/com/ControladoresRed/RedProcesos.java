@@ -3,6 +3,7 @@ package com.ControladoresRed;
 import com.Comandos.EjecutarComando;
 import com.Comandos.EnviarMensajeCommand;
 import com.Comandos.RecibirArchivoCommand;
+import com.Entidades.Estadistica;
 import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
@@ -66,11 +67,16 @@ public class RedProcesos extends Thread {
     public void realizarAccion(Mensaje mensaje,ObjectInputStream ois,ObjectOutputStream oos)
                                                               throws IOException, ClassNotFoundException {
         String funcion = mensaje.getFuncion();
-
+        //Reportando
+        //-------------------------------------------------------
+        if (SistemaUtil.tipo.equals("fantasma"))
+        SistemaUtil.generarReporte();
+        //------------------------------------------------------- 
             if(funcion.equals("addnode")){
                     NodoRF nodo = (NodoRF) mensaje.getData();
                     EjecutarComando.linea("addnode "+nodo.getDireccion()+" "+nodo.getPuertopeticion());
                     System.out.println("Se ha agregado un nodo de forma exitosa");
+                    Estadistica.add_nodos();
                     EjecutarComando.linea("order");
                     oos.writeObject(new Mensaje("addnode","",nodo));
                     EjecutarComando.linea("generarFinger");
@@ -169,10 +175,15 @@ public class RedProcesos extends Thread {
 
             if(funcion.equals("resource")){
                 Nodo nodo =(Nodo)mensaje.getOrigen();
-                Long hash = ((BigInteger)mensaje.getData()).longValue();
-                    Nodo.getInstancia().agregarRecurso(nodo, hash);
-                    System.out.println("Actualizando tabla de recursos");
-                    oos.writeObject("asignado");
+                Long hash = Long.parseLong("0");
+                if (mensaje.getData() instanceof BigInteger)
+                hash = ((BigInteger)mensaje.getData()).longValue();
+                if (mensaje.getData() instanceof Long)
+                hash = (Long)mensaje.getData();
+                
+                Nodo.getInstancia().agregarRecurso(nodo, hash);
+                System.out.println("Actualizando tabla de recursos");
+                oos.writeObject("asignado");
             }
 
             if(funcion.equals("who")){
