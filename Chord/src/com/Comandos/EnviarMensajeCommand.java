@@ -23,7 +23,7 @@ import java.net.Socket;
  * Garry Bruno
  * Carlos Valero
  */
-public class EnviarMensajeCommand extends BaseCommand {
+public class EnviarMensajeCommand extends AsyncCommand {
 
     public static final String COMMAND_NAME="send";
 
@@ -33,7 +33,7 @@ public class EnviarMensajeCommand extends BaseCommand {
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public void executeOnBackground(String[] args, OutputStream out) {
         if (args.length==3) {
             enviarDato(args[2], args[0], Integer.parseInt(args[1]));
         }else{

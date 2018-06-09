@@ -37,7 +37,7 @@ public class CargarRecursosCommand extends BaseCommand {
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public synchronized void ejecutar(String[] args, OutputStream out) {
         try {
             File carpeta = new File("recursos");
             System.out.println("Cargando recursos...");

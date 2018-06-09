@@ -40,7 +40,7 @@ public class RecibirArchivoCommand extends AsyncCommand {
 
 
     @Override
-    public void executeOnBackground(String[] args, OutputStream out) {
+    public synchronized void executeOnBackground(String[] args, OutputStream out) {
         try {
             DataOutputStream output;
             BufferedInputStream bis;

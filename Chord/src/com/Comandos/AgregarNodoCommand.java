@@ -32,7 +32,7 @@ public class AgregarNodoCommand extends BaseCommand {
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public synchronized void ejecutar(String[] args, OutputStream out) {
         Fantasma fantasma = Fantasma.obtenerInstancia();
         try {
             if (!existe(args[0],Integer.parseInt(args[1])))

@@ -36,14 +36,18 @@ public class GenerarFingerCommand extends BaseCommand {
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public synchronized void ejecutar(String[] args, OutputStream out) {
         Fantasma f = Fantasma.obtenerInstancia();
-        if (!f.getAnillo().isEmpty()) {
-            ArrayList<NodoRF> anillo = f.getAnillo();
-            for (NodoRF nodo : anillo) {
-                Estadistica.add_tablas();
-                ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("addtable", anillo, nodo));
+        try {
+            if (!f.getAnillo().isEmpty()) {
+                ArrayList<NodoRF> anillo = f.getAnillo();
+                for (NodoRF nodo : anillo) {
+                    Estadistica.add_tablas();
+                    ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("addtable", anillo, nodo));
+                }
             }
+        }catch(ConcurrentModificationException e){
+        
         }
     }
 }

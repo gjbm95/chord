@@ -35,7 +35,7 @@ public class InformarRecursosCommand extends AsyncCommand {
 
 
     @Override
-    public void executeOnBackground(String[] args, OutputStream out) {
+    public synchronized void executeOnBackground(String[] args, OutputStream out) {
         for(Recurso recurso : Nodo.getInstancia().getRecursos()) {
             if (recurso.getHash().longValue() > Nodo.obtenerInstancia().getHash().longValue()) {
                 NodoRF node = Nodo.obtenerInstancia().seleccionarNodo(recurso.getHash().longValue());

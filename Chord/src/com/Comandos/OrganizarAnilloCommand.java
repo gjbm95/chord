@@ -34,7 +34,7 @@ public class OrganizarAnilloCommand extends BaseCommand{
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public synchronized void ejecutar(String[] args, OutputStream out) {
         ArrayList<Integer> original = new ArrayList<Integer>();
         ArrayList<NodoRF> resultado = new ArrayList<NodoRF>();
         Fantasma fantasma = Fantasma.obtenerInstancia();

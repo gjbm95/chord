@@ -27,7 +27,7 @@ import java.util.logging.Logger;
 public class SistemaUtil {
 
     public static String tipo ="";
-
+    public static boolean terminal=false;
 
     public static String obtenerHora(){
         Calendar calendario = Calendar.getInstance();
@@ -40,7 +40,7 @@ public class SistemaUtil {
     }
     
     
-    public static void pilotoAutomatico(String args[]){
+    public synchronized static void pilotoAutomatico(String args[]){
               if (args[0].equals("fantasma")){
                 String direcciones[] = adaptadoresDisponibles();
                 EjecutarComando.linea("network " + direcciones[Integer.parseInt(args[1]) - 1]

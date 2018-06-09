@@ -39,7 +39,7 @@ public class BuscarRecursoCommand extends BaseCommand{
     }
 
     @Override
-    public void ejecutar(String[] args, OutputStream out) {
+    public synchronized void ejecutar(String[] args, OutputStream out) {
         try {
             Long hash = RespuestaUtils.generarHash(args[0]).longValue();
             NodoRF nodo = Nodo.obtenerInstancia().seleccionarNodo(hash);

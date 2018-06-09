@@ -43,7 +43,7 @@ public class RecibirMensajeCommand extends AsyncCommand{
     }
 
     @Override
-    public void executeOnBackground(String[] args, OutputStream out) {
+    public synchronized void executeOnBackground(String[] args, OutputStream out) {
             try {
                 ServerSocket recepcion = null;
                 if (SistemaUtil.tipo.equals("miembro")) {

@@ -41,7 +41,7 @@ public class ConexionUtils {
 
 
 
-    public Object enviarMensaje(Mensaje dato){
+    public synchronized Object enviarMensaje(Mensaje dato){
         try {
             ObjectOutputStream salidaObjeto;
             //Se colocan los datos del que funge como servidor (Direccion IP y Puerto).
@@ -88,7 +88,7 @@ public class ConexionUtils {
         return null;
     }
 
-    public Object enviar(Mensaje dato){
+    public synchronized Object enviar(Mensaje dato){
         try {
             ObjectOutputStream salidaObjeto;
             //Se colocan los datos del que funge como servidor (Direccion IP y Puerto).
