@@ -60,6 +60,7 @@ public class SistemaUtil {
                    EjecutarComando.linea("network " + args[2] + " 2000 central");
                    try {
                         NodoRF mynodorf = new NodoRF(Nodo.obtenerInstancia().getDireccion(),Nodo.getInstancia().getPuertopeticion());
+                        LoggerUtil.obtenerInstancia().Log("Solicitando agregar nodo "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
                         ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("addnode",mynodorf,Fantasma.obtenerInstancia()));
                         Thread.sleep(10000);
                         EjecutarComando.linea("share");
@@ -67,6 +68,7 @@ public class SistemaUtil {
                         String [] archivos = {"archivo1.jpg","archivo2.mp3","archivo3.txt"};
                         Random r = new Random();
                         Integer valor = r.nextInt(3);
+                        LoggerUtil.obtenerInstancia().Log("Buscando recurso "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
                         EjecutarComando.linea("search "+archivos[valor]);
                         Thread.sleep(60000);
                         System.out.println("Piloto automatico finalizado");

@@ -5,7 +5,9 @@ import com.ControladoresRed.Mensaje;
 import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
+import com.Utils.LoggerUtil;
 import com.Utils.SistemaUtil;
+import static com.Utils.SistemaUtil.obtenerHora;
 
 import java.io.OutputStream;
 import java.security.NoSuchAlgorithmException;
@@ -42,6 +44,7 @@ public class TipoNodoCommand extends BaseCommand {
             System.out.println("Se ha asignado el tipo de nodo exitosamente");
            try {
                 NodoRF mynodorf = new NodoRF(Nodo.obtenerInstancia().getDireccion(),Nodo.getInstancia().getPuertopeticion());
+                LoggerUtil.obtenerInstancia().Log("Solicitando agregar nodo "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
                 ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("addnode",mynodorf,Fantasma.obtenerInstancia()));
             } catch (NoSuchAlgorithmException e) {
                 e.printStackTrace();

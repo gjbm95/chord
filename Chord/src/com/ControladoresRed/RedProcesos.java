@@ -8,8 +8,10 @@ import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
 import com.Entidades.Recurso;
+import com.Utils.LoggerUtil;
 import com.Utils.RespuestaUtils;
 import com.Utils.SistemaUtil;
+import static com.Utils.SistemaUtil.obtenerHora;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -75,6 +77,7 @@ public class RedProcesos extends Thread {
             if(funcion.equals("addnode")){
                     NodoRF nodo = (NodoRF) mensaje.getData();
                     EjecutarComando.linea("addnode "+nodo.getDireccion()+" "+nodo.getPuertopeticion());
+                    LoggerUtil.obtenerInstancia().Log("Agregado nodo "+nodo.getDireccion()+" tiempo: "+SistemaUtil.obtenerHora());
                     System.out.println("Se ha agregado un nodo de forma exitosa");
                     Estadistica.add_nodos();
                     EjecutarComando.linea("order");
@@ -99,6 +102,7 @@ public class RedProcesos extends Thread {
                     }
             }
             if(funcion.equals("addtable")){
+                LoggerUtil.obtenerInstancia().Log("Generando Finger "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     Nodo.getInstancia().getTablaRecursos().clear();
                     ArrayList<NodoRF> anillo = (ArrayList<NodoRF>) mensaje.getData();
                     HashMap<Integer, NodoRF>  tabla = new HashMap<Integer, NodoRF>();
@@ -119,7 +123,9 @@ public class RedProcesos extends Thread {
                         tabla.put(1, anillo.get(0));
                     }
                 }
+                 LoggerUtil.obtenerInstancia().Log("Finger Generado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     Nodo.getInstancia().setTabla(tabla);
+                    LoggerUtil.obtenerInstancia().Log("Finger Almacenado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     System.out.println("Se ha agregado la tabla de forma exitosa");
                     if (SistemaUtil.terminal)
                     EjecutarComando.linea("listfinger");
