@@ -7,7 +7,9 @@ import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
 import com.Entidades.Recurso;
+import com.Utils.LoggerUtil;
 import com.Utils.RespuestaUtils;
+import static com.Utils.SistemaUtil.obtenerHora;
 
 import java.io.OutputStream;
 import java.security.NoSuchAlgorithmException;
@@ -43,12 +45,14 @@ public class BuscarRecursoCommand extends BaseCommand{
         try {
             Long hash = RespuestaUtils.generarHash(args[0]).longValue();
             NodoRF nodo = Nodo.obtenerInstancia().seleccionarNodo(hash);
+                             LoggerUtil.obtenerInstancia().Log("Buscando Recurso "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
             //Obtiene la IP y Descarga el archivo
             if (hash > Nodo.obtenerInstancia().getHash().longValue()) {
                 Nodo.getInstancia().setSolicitante(true);
                 Mensaje mensaje = new Mensaje("who", hash, Nodo.getInstancia(), nodo);
                 ArrayList<Nodo> duenos = (ArrayList<Nodo>) ConexionUtils.obtenerInstancia().enviarMensaje(mensaje);
                 if (!duenos.isEmpty()) {
+                    LoggerUtil.obtenerInstancia().Log("Recurso Encontrado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     new Descargas(duenos, args[0],hash).start();
                     //EjecutarComando.linea("download " + duenos.getDireccion() + " " + duenos.getPuertopeticion() + " " + hash);
                 } else {
