@@ -41,7 +41,8 @@ public class SistemaUtil {
     
     
     public synchronized static void pilotoAutomatico(String args[]){
-              if (args[0].equals("fantasma")){
+             terminal = true;  
+             if (args[0].equals("fantasma")){
                 String direcciones[] = adaptadoresDisponibles();
                 EjecutarComando.linea("network " + direcciones[Integer.parseInt(args[1]) - 1]
                                + " 2000" + " central");
