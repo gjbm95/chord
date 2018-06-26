@@ -78,6 +78,7 @@ public class RedProcesos extends Thread {
                     NodoRF nodo = (NodoRF) mensaje.getData();
                     EjecutarComando.linea("addnode "+nodo.getDireccion()+" "+nodo.getPuertopeticion());
                     LoggerUtil.obtenerInstancia().Log("Agregado nodo "+nodo.getDireccion()+" tiempo: "+SistemaUtil.obtenerHora());
+                    SistemaUtil.reportarTiempo("addnode", "final", nodo); 
                     System.out.println("Se ha agregado un nodo de forma exitosa");
                     Estadistica.add_nodos();
                     EjecutarComando.linea("order");
@@ -126,6 +127,7 @@ public class RedProcesos extends Thread {
                  LoggerUtil.obtenerInstancia().Log("Finger Generado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     Nodo.getInstancia().setTabla(tabla);
                     LoggerUtil.obtenerInstancia().Log("Finger Almacenado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
+                    SistemaUtil.reportarTiempo("generarFinger", "final", new NodoRF(Nodo.getInstancia().getDireccion(), Nodo.getInstancia().getPuertopeticion()));
                     System.out.println("Se ha agregado la tabla de forma exitosa");
                     if (SistemaUtil.terminal)
                     EjecutarComando.linea("listfinger");

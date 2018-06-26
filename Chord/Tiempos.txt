@@ -1,0 +1,10 @@
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Solicitando agregar nodo 127.0.0.1 tiempo: 21:50:47:206
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Agregado nodo 127.0.0.1 tiempo: 21:50:47:423
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Generando Finger 127.0.0.1 tiempo: 21:50:47:463
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Finger Generado 127.0.0.1 tiempo: 21:50:47:467
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Finger Almacenado 127.0.0.1 tiempo: 21:50:47:470
