@@ -17,8 +17,11 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.math.BigInteger;
+import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * Universidad Catolica Andres Bello
@@ -127,7 +130,11 @@ public class RedProcesos extends Thread {
                  LoggerUtil.obtenerInstancia().Log("Finger Generado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     Nodo.getInstancia().setTabla(tabla);
                     LoggerUtil.obtenerInstancia().Log("Finger Almacenado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
-                    SistemaUtil.reportarTiempo("generarFinger", "final", new NodoRF(Nodo.getInstancia().getDireccion(), Nodo.getInstancia().getPuertopeticion()));
+            try {
+                SistemaUtil.reportarTiempo("generarFinger", "final", new NodoRF(Nodo.getInstancia().getDireccion(), Nodo.getInstancia().getPuertopeticion()));
+            } catch (NoSuchAlgorithmException ex) {
+                Logger.getLogger(RedProcesos.class.getName()).log(Level.SEVERE, null, ex);
+            }
                     System.out.println("Se ha agregado la tabla de forma exitosa");
                     if (SistemaUtil.terminal)
                     EjecutarComando.linea("listfinger");
