@@ -43,7 +43,7 @@ public class GenerarFingerCommand extends BaseCommand {
                 ArrayList<NodoRF> anillo = f.getAnillo();
                 for (NodoRF nodo : anillo) {
                     Estadistica.add_tablas();
-                    ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("addtable", anillo, nodo));
+                    new ConexionUtils().enviarMensaje(new Mensaje("addtable", anillo, nodo));
                 }
             }
         }catch(ConcurrentModificationException e){

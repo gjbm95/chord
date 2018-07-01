@@ -41,15 +41,15 @@ public class InformarRecursosCommand extends AsyncCommand {
                 NodoRF node = Nodo.obtenerInstancia().seleccionarNodo(recurso.getHash().longValue());
                 //Obtiene la IP y Descarga el archivo
                 Nodo.getInstancia().setSolicitante(true);
-                ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("resource", recurso.getHash(),
+                new ConexionUtils().enviarMensaje(new Mensaje("resource", recurso.getHash(),
                         Nodo.getInstancia(), node));
             }
             else
             {
                 Nodo.getInstancia().setSolicitante(true);
-                NodoRF primero = (NodoRF) ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("first"
+                NodoRF primero = (NodoRF) new ConexionUtils().enviarMensaje(new Mensaje("first"
                         , Fantasma.obtenerInstancia()));
-                ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("resource", recurso.getHash(),
+                new ConexionUtils().enviarMensaje(new Mensaje("resource", recurso.getHash(),
                         Nodo.getInstancia(), primero));
             }
 

@@ -134,13 +134,13 @@ public class RedProcesos extends Thread {
                     System.out.println("Compartiendo...");
                             for (Recurso recurso : Nodo.getInstancia().getRecursos()) {
                                 if (recurso.getHash().longValue() > anillo.get(anillo.size() - 1).getHash().longValue()) {
-                                    ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("resource", recurso.getHash(),
+                                    new ConexionUtils().enviarMensaje(new Mensaje("resource", recurso.getHash(),
                                             Nodo.getInstancia(), anillo.get(0)));
                                 } else
 
                                     for (NodoRF nodo : anillo) {
                                         if (recurso.getHash().longValue() <= nodo.getHash().longValue()) {
-                                            ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("resource", recurso.getHash(),
+                                            new ConexionUtils().enviarMensaje(new Mensaje("resource", recurso.getHash(),
                                                     Nodo.getInstancia(), nodo));
                                             break;
                                         }
@@ -171,11 +171,11 @@ public class RedProcesos extends Thread {
                         System.out.println("redireccionando...");
                         NodoRF hashnode = Nodo.obtenerInstancia().seleccionarNodo(hash);
                         Mensaje data = new Mensaje("getip",hashnode.getHash().longValue(),Fantasma.obtenerInstancia());
-                        Mensaje respuesta = (Mensaje) ConexionUtils.obtenerInstancia().enviarMensaje(data);
+                        Mensaje respuesta = (Mensaje) new ConexionUtils().enviarMensaje(data);
                         NodoRF nodo = (NodoRF) respuesta.getData();
                         if (!nodo.getDireccion().equals(mensaje.getOrigen().getDireccion())){
                         data = new Mensaje("download",hash,mensaje.getOrigen(),nodo);
-                        nodo = (NodoRF)ConexionUtils.obtenerInstancia().enviarMensaje(data);
+                        nodo = (NodoRF)new ConexionUtils().enviarMensaje(data);
                         oos.writeObject(nodo);
                         }else{
                             oos.writeObject(null);
@@ -208,7 +208,7 @@ public class RedProcesos extends Thread {
                         NodoRF hashnode = Nodo.obtenerInstancia().seleccionarNodo(hash);
                     if (!(nodo.getDireccion().equals(Nodo.getInstancia().getDireccion()))
                             &&!(nodo.getPuertopeticion()==Nodo.obtenerInstancia().getPuertopeticion()))
-                        ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("who", hash,
+                        new ConexionUtils().enviarMensaje(new Mensaje("who", hash,
                                 nodo, hashnode));
                     else{
                         oos.writeObject(null);

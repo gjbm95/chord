@@ -27,7 +27,7 @@ public class Descargas extends Thread {
     public void run() {
         ArrayList<Nodo> removibles = new ArrayList<Nodo>();
         for (Nodo dueno : duenos) {
-            tamano = (Long)(ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("size", hash, dueno)));
+            tamano = (Long)(new ConexionUtils().enviarMensaje(new Mensaje("size", hash, dueno)));
             if (tamano != 0)
                 break;
             else

@@ -45,7 +45,7 @@ public class EliminarNodo extends BaseCommand {
               Estadistica.add_caidos();
           }
           else{
-              ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("clean", args[0]+":"+args[1],nodo));
+             new ConexionUtils().enviarMensaje(new Mensaje("clean", args[0]+":"+args[1],nodo));
           }
       }
         fantasma.getAnillo().remove(index);

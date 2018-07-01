@@ -50,7 +50,7 @@ public class BuscarRecursoCommand extends BaseCommand{
             if (hash > Nodo.obtenerInstancia().getHash().longValue()) {
                 Nodo.getInstancia().setSolicitante(true);
                 Mensaje mensaje = new Mensaje("who", hash, Nodo.getInstancia(), nodo);
-                ArrayList<Nodo> duenos = (ArrayList<Nodo>) ConexionUtils.obtenerInstancia().enviarMensaje(mensaje);
+                ArrayList<Nodo> duenos = (ArrayList<Nodo>)new ConexionUtils().enviarMensaje(mensaje);
                 if (!duenos.isEmpty()) {
                     LoggerUtil.obtenerInstancia().Log("Recurso Encontrado "+Nodo.getInstancia().getDireccion()+" tiempo: "+obtenerHora());
                     new Descargas(duenos, args[0],hash).start();
@@ -62,8 +62,8 @@ public class BuscarRecursoCommand extends BaseCommand{
                 }
             }else{
                 Nodo.getInstancia().setSolicitante(true);
-                NodoRF primero = (NodoRF) ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("first", Fantasma.obtenerInstancia()));
-                ArrayList <Nodo> duenos  = (ArrayList<Nodo>) ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("who",hash,
+                NodoRF primero = (NodoRF)new ConexionUtils().enviarMensaje(new Mensaje("first", Fantasma.obtenerInstancia()));
+                ArrayList <Nodo> duenos  = (ArrayList<Nodo>)new ConexionUtils().enviarMensaje(new Mensaje("who",hash,
                         Nodo.getInstancia(), primero));
                 if (!duenos.isEmpty()) {
                     new Descargas(duenos, args[0],hash).start();

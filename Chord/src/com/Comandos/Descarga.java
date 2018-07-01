@@ -94,7 +94,7 @@ public class Descarga extends Thread {
             System.out.println("Descarga fallida!");
             this.estado = "E";
             try {
-                Mensaje mensaje =(Mensaje) ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("deletenode",
+                Mensaje mensaje =(Mensaje) new ConexionUtils().enviarMensaje(new Mensaje("deletenode",
                         new NodoRF(nodo.getDireccion(),nodo.getPuertopeticion()), Fantasma.obtenerInstancia()));
             } catch (NoSuchAlgorithmException e1) {
                 e1.printStackTrace();

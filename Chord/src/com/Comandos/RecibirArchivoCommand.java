@@ -122,7 +122,7 @@ public class RecibirArchivoCommand extends AsyncCommand {
             //Logger.getLogger(RecibirArchivoCommand.class.getName()).log(Level.SEVERE, null, e);
             System.out.println("Descarga fallida!");
             try {
-                Mensaje mensaje =(Mensaje) ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("deletenode",
+                Mensaje mensaje =(Mensaje)new ConexionUtils().enviarMensaje(new Mensaje("deletenode",
                         new NodoRF(args[0],Integer.parseInt(args[1])), Fantasma.obtenerInstancia()));
             } catch (NoSuchAlgorithmException e1) {
                 e1.printStackTrace();

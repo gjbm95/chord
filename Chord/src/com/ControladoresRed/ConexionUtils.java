@@ -24,22 +24,9 @@ public class ConexionUtils {
 
     private Object respuesta;
 
-    private static ConexionUtils conexion;
-
-
-    private ConexionUtils(){
+    public ConexionUtils(){
 
     }
-
-
-    public static ConexionUtils obtenerInstancia(){
-
-        if (conexion==null)
-           conexion = new ConexionUtils();
-        return conexion;
-    }
-
-
 
     public synchronized Object enviarMensaje(Mensaje dato){
         try {
@@ -61,7 +48,7 @@ public class ConexionUtils {
             //Logger.getLogger(ConexionUtils.class.getName()).log(Level.SEVERE, null, ex);
             System.out.println("Hay un nodo no existente en la red");
             if (SistemaUtil.tipo.equals("miembro")) {
-                Mensaje mensaje =(Mensaje)ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("deletenode",
+                Mensaje mensaje =(Mensaje)new ConexionUtils().enviarMensaje(new Mensaje("deletenode",
                         dato.getDestino(), Fantasma.obtenerInstancia()));
             }else if (SistemaUtil.tipo.equals("fantasma")){
 

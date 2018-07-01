@@ -37,7 +37,7 @@ public class ExitCommand extends BaseCommand {
     @Override
     public void ejecutar(String[] args, OutputStream out) {
             if (SistemaUtil.tipo.equals("miembro")) {
-                Mensaje mensaje =(Mensaje)ConexionUtils.obtenerInstancia().enviarMensaje(new Mensaje("deletenode",
+                Mensaje mensaje =(Mensaje)new ConexionUtils().enviarMensaje(new Mensaje("deletenode",
                         Nodo.getInstancia(),Fantasma.obtenerInstancia()));
                 if (mensaje.getFuncion().equals("finalice")){
                     System.exit(0);
