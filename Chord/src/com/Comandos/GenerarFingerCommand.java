@@ -6,6 +6,7 @@ import com.Entidades.Estadistica;
 import com.Entidades.Fantasma;
 import com.Entidades.Nodo;
 import com.Entidades.NodoRF;
+import com.Utils.SistemaUtil;
 
 import java.io.OutputStream;
 import java.util.ArrayList;
@@ -43,6 +44,7 @@ public class GenerarFingerCommand extends BaseCommand {
                 ArrayList<NodoRF> anillo = f.getAnillo();
                 for (NodoRF nodo : anillo) {
                     Estadistica.add_tablas();
+                    SistemaUtil.reportarTiempo(COMMAND_NAME, "inicio", nodo);
                     new ConexionUtils().enviarMensaje(new Mensaje("addtable", anillo, nodo));
                 }
             }

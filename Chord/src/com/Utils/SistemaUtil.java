@@ -28,6 +28,8 @@ public class SistemaUtil {
 
     public static String tipo ="";
     public static boolean terminal=false;
+    public static String servidorTiempo;
+    public static boolean informarTiempo = true;
 
     public static String obtenerHora(){
         Calendar calendario = Calendar.getInstance();
@@ -130,6 +132,17 @@ public class SistemaUtil {
        ArchivoThread generar = new ArchivoThread();
        new Thread(generar).start();     
     }
+    
+     public static void reportarTiempo(String funcion, String marca, NodoRF origen){ 
+        if(informarTiempo){ 
+            try { 
+                Mensaje mensaje = new Mensaje(funcion, marca, origen, new NodoRF(servidorTiempo,1500)); 
+                new ConexionUtils().enviarMensaje(mensaje); 
+            } catch (NoSuchAlgorithmException ex) { 
+                Logger.getLogger(SistemaUtil.class.getName()).log(Level.SEVERE, null, ex); 
+            } 
+        } 
+    } 
     
     private static class ArchivoThread implements Runnable{
         public void run() {

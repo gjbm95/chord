@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jul 01, 2018 4:54:02 PM com.Utils.LoggerUtil Log
 INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 16:54:2:440
 jul 01, 2018 4:54:02 PM com.Utils.LoggerUtil Log
@@ -46,3 +47,15 @@ jul 01, 2018 4:54:38 PM com.Utils.LoggerUtil Log
 INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:54:38:921
 jul 01, 2018 4:54:38 PM com.Utils.LoggerUtil Log
 INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:54:38:924
+=======
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Solicitando agregar nodo 127.0.0.1 tiempo: 21:50:47:206
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Agregado nodo 127.0.0.1 tiempo: 21:50:47:423
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Generando Finger 127.0.0.1 tiempo: 21:50:47:463
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Finger Generado 127.0.0.1 tiempo: 21:50:47:467
+Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
+INFO: Finger Almacenado 127.0.0.1 tiempo: 21:50:47:470
+>>>>>>> 5177992e42305347e22bb08628000c19de4b5c3b

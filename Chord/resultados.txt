@@ -4,11 +4,19 @@ Resultados de Prueba de Estres
 
 ------------------------------------------------------
 
+<<<<<<< HEAD
 Nº Nodos estables: 3 
 
 Nº Nodos caidos: 0 
 
 Nº tablas generadas: 4
+=======
+Nº Nodos estables: 0 
+
+Nº Nodos caidos: 0 
+
+Nº tablas generadas: 0
+>>>>>>> 5177992e42305347e22bb08628000c19de4b5c3b
 
 ------------------------------------------------------
 
