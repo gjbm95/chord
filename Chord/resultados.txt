@@ -5,6 +5,7 @@ Resultados de Prueba de Estres
 ------------------------------------------------------
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 Nº Nodos estables: 3 
 
@@ -18,6 +19,13 @@ Nº Nodos caidos: 0
 
 Nº tablas generadas: 0
 >>>>>>> 5177992e42305347e22bb08628000c19de4b5c3b
+=======
+Nº Nodos estables: 2 
+
+Nº Nodos caidos: 0 
+
+Nº tablas generadas: 3
+>>>>>>> Stashed changes
 =======
 Nº Nodos estables: 2 
 
