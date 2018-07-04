@@ -58,4 +58,39 @@ Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
 INFO: Finger Generado 127.0.0.1 tiempo: 21:50:47:467
 Jun 13, 2018 9:50:47 PM com.Utils.LoggerUtil Log
 INFO: Finger Almacenado 127.0.0.1 tiempo: 21:50:47:470
+<<<<<<< Updated upstream
 >>>>>>> 5177992e42305347e22bb08628000c19de4b5c3b
+=======
+Jun 28, 2018 10:34:34 AM com.Utils.LoggerUtil Log
+INFO: Solicitando agregar nodo 127.0.0.1 tiempo: 10:34:34:7
+Jun 28, 2018 10:34:34 AM com.Utils.LoggerUtil Log
+INFO: Agregado nodo 127.0.0.1 tiempo: 10:34:34:563
+Jun 28, 2018 10:34:34 AM com.Utils.LoggerUtil Log
+INFO: Generando Finger 127.0.0.1 tiempo: 10:34:34:622
+Jun 28, 2018 10:34:34 AM com.Utils.LoggerUtil Log
+INFO: Finger Generado 127.0.0.1 tiempo: 10:34:34:631
+Jun 28, 2018 10:34:34 AM com.Utils.LoggerUtil Log
+INFO: Finger Almacenado 127.0.0.1 tiempo: 10:34:34:634
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Solicitando agregar nodo 192.168.0.108 tiempo: 10:34:56:428
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Agregado nodo 192.168.0.108 tiempo: 10:34:56:594
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Generando Finger 127.0.0.1 tiempo: 10:34:56:615
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Finger Generado 127.0.0.1 tiempo: 10:34:56:620
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Finger Almacenado 127.0.0.1 tiempo: 10:34:56:625
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Generando Finger 192.168.0.108 tiempo: 10:34:56:657
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Finger Generado 192.168.0.108 tiempo: 10:34:56:663
+Jun 28, 2018 10:34:56 AM com.Utils.LoggerUtil Log
+INFO: Finger Almacenado 192.168.0.108 tiempo: 10:34:56:667
+Jun 28, 2018 10:35:14 AM com.Utils.LoggerUtil Log
+INFO: Buscando Recurso 127.0.0.1 tiempo: 10:35:14:774
+Jun 28, 2018 10:36:24 AM com.Utils.LoggerUtil Log
+INFO: Buscando Recurso 192.168.0.108 tiempo: 10:36:24:654
+Jun 28, 2018 10:36:41 AM com.Utils.LoggerUtil Log
+INFO: Buscando Recurso 127.0.0.1 tiempo: 10:36:41:94
+>>>>>>> Stashed changes
