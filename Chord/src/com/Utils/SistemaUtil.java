@@ -91,7 +91,7 @@ public class SistemaUtil {
       
      private static String [] adaptadoresDisponibles(){
           int conteo =0;
-                String direcciones []= new String[10];
+                String direcciones []= new String[50];
                 try {
                     Enumeration e = NetworkInterface.getNetworkInterfaces();
                     while(e.hasMoreElements())
