@@ -50,37 +50,41 @@ public class SistemaUtil {
                                + " 2000" + " central");
                        SistemaUtil.tipo = "fantasma";
                        EjecutarComando.linea("listen");
+                       SistemaUtil.servidorTiempo = direcciones[Integer.parseInt(args[1]) - 1];
               }
               
               if (args[0].equals("miembro")){
                    EjecutarComando.linea("loadresources");
                    String direcciones[] = adaptadoresDisponibles();
+                   System.out.println("La direccion que escogio fue: " + direcciones[Integer.parseInt(args[1]) - 1]);
                    EjecutarComando.linea("network " + direcciones[Integer.parseInt(args[1]) - 1]
                                + " " + seleccionarPuerto() + " miembro");
                    SistemaUtil.tipo = "miembro";
                    EjecutarComando.linea("listen");
                    EjecutarComando.linea("listenfile");
                    EjecutarComando.linea("network " + args[2] + " 2000 central");
+                   SistemaUtil.servidorTiempo = args[2];
                    try {
                         NodoRF mynodorf = new NodoRF(Nodo.obtenerInstancia().getDireccion(),Nodo.getInstancia().getPuertopeticion());
                         LoggerUtil.obtenerInstancia().Log("Solicitando agregar nodo "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
+                        SistemaUtil.reportarTiempo("addnode", "inicio", mynodorf);
                         new ConexionUtils().enviarMensaje(new Mensaje("addnode",mynodorf,Fantasma.obtenerInstancia()));
-                        Thread.sleep(10000);
-                        EjecutarComando.linea("share");
-                        Thread.sleep(10000);
+                        //Thread.sleep(10000);
+                        //EjecutarComando.linea("share");
+                        //Thread.sleep(10000);
                         String [] archivos = {"archivo1.jpg","archivo2.mp3","archivo3.txt"};
                         Random r = new Random();
                         Integer valor = r.nextInt(3);
-                        LoggerUtil.obtenerInstancia().Log("Buscando recurso "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
+                        //LoggerUtil.obtenerInstancia().Log("Buscando recurso "+Nodo.obtenerInstancia().getDireccion()+" tiempo: "+obtenerHora());
                         EjecutarComando.linea("search "+archivos[valor]);
-                        Thread.sleep(60000);
+                        //Thread.sleep(60000);
                         System.out.println("Piloto automatico finalizado");
                         System.out.println("Algunos datos recogidos");
                         System.out.println("-----------------------------------------");
                         EjecutarComando.linea("listfinger");
                    } catch (NoSuchAlgorithmException e) {
                         e.printStackTrace();
-                    } catch (InterruptedException ex) {
+                    } catch (Exception ex) {
                       Logger.getLogger(SistemaUtil.class.getName()).log(Level.SEVERE, null, ex);
                   }
 

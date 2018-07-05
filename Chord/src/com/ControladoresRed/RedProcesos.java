@@ -156,6 +156,7 @@ public class RedProcesos extends Thread {
                                     }
 
                             }
+                            
             }
             if(funcion.equals("getip")){
                     Long hash = (Long)mensaje.getData();
@@ -168,7 +169,7 @@ public class RedProcesos extends Thread {
                     if(Nodo.getInstancia().buscarRecurso(hash)!=null){
                         oos.writeObject(new Mensaje("havefile",Nodo.getInstancia(),Nodo.getInstancia()));
                     }else{
-
+                      oos.writeObject(null);
                     }
             }
 
@@ -235,6 +236,7 @@ public class RedProcesos extends Thread {
                     String atributos [] = datos.split(":");
 
                 }
+                oos.writeObject(null);
             }
             if(funcion.equals("first")){
                 if( Fantasma.obtenerInstancia().getAnillo()!= null && !Fantasma.obtenerInstancia().getAnillo().isEmpty())
