@@ -79,6 +79,7 @@ public class BuscarRecursoCommand extends BaseCommand{
                       System.out.println("Archivo no encontrado");
                     }
                 }
+                SistemaUtil.reportarTiempo(COMMAND_NAME, "final", new NodoRF(Nodo.getInstancia().getDireccion(),Nodo.getInstancia().getPuertopeticion()));
             }
 
         } catch (NoSuchAlgorithmException e) {

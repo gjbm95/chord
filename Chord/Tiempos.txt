@@ -1,1 +1,1972 @@
-﻿
+﻿jul 07, 2018 4:23:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 16:23:51:874
+jul 07, 2018 4:23:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.1.103 tiempo: 16:23:52:568
+jul 07, 2018 4:23:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:23:52:687
+jul 07, 2018 4:23:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:23:52:695
+jul 07, 2018 4:23:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:23:52:699
+jul 07, 2018 4:25:22 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 16:25:22:271
+jul 07, 2018 4:25:22 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.1.103 tiempo: 16:25:22:420
+jul 07, 2018 4:25:22 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:25:22:491
+jul 07, 2018 4:25:22 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:25:22:496
+jul 07, 2018 4:25:22 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:25:22:499
+jul 07, 2018 4:27:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 16:27:59:344
+jul 07, 2018 4:27:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.1.103 tiempo: 16:27:59:713
+jul 07, 2018 4:27:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:27:59:916
+jul 07, 2018 4:27:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:27:59:919
+jul 07, 2018 4:27:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:27:59:922
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.56.1 tiempo: 16:28:24:333
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.56.1 tiempo: 16:28:24:506
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:28:24:809
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:28:24:812
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:28:24:817
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:28:24:915
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:28:24:921
+jul 07, 2018 4:28:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:28:24:925
+jul 07, 2018 4:29:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 25.5.197.174 tiempo: 16:29:34:958
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 25.5.197.174 tiempo: 16:29:35:17
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:29:35:39
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:29:35:42
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:29:35:44
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:29:35:71
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:29:35:74
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:29:35:79
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:29:35:109
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:29:35:113
+jul 07, 2018 4:29:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:29:35:117
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.245.135 tiempo: 16:29:51:13
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.245.135 tiempo: 16:29:51:113
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:29:51:151
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:29:51:153
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:29:51:156
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:29:51:242
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:29:51:247
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:29:51:253
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:29:51:294
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:29:51:300
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:29:51:304
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:29:51:473
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:29:51:511
+jul 07, 2018 4:29:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:29:51:514
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.176.219 tiempo: 16:30:5:574
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.176.219 tiempo: 16:30:5:637
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:30:5:674
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:30:5:679
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:30:5:681
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:30:5:715
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:30:5:718
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:30:5:720
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:30:5:748
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:30:5:751
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:30:5:755
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:30:5:812
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:30:5:816
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:30:5:818
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:30:5:864
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:30:5:869
+jul 07, 2018 4:30:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:30:5:873
+jul 07, 2018 4:30:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:30:19:5
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:30:59:415
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:30:59:418
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:30:59:421
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:30:59:481
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:30:59:486
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:30:59:489
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:30:59:707
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:30:59:713
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:30:59:719
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:30:59:765
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:30:59:772
+jul 07, 2018 4:30:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:30:59:775
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:31:3:343
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:31:3:349
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:31:3:353
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:31:3:378
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:31:3:381
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:31:3:384
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:31:3:410
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:31:3:414
+jul 07, 2018 4:31:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:31:3:416
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:31:6:690
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:31:6:694
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:31:6:698
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:31:6:741
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:31:6:747
+jul 07, 2018 4:31:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:31:6:750
+jul 07, 2018 4:31:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:31:9:962
+jul 07, 2018 4:31:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:31:9:965
+jul 07, 2018 4:31:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:31:9:967
+jul 07, 2018 4:33:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 16:33:41:353
+jul 07, 2018 4:33:42 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.1.103 tiempo: 16:33:42:173
+jul 07, 2018 4:33:43 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:33:43:360
+jul 07, 2018 4:33:43 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:33:43:474
+jul 07, 2018 4:33:43 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:33:43:477
+jul 07, 2018 4:34:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.56.1 tiempo: 16:34:5:896
+jul 07, 2018 4:34:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.56.1 tiempo: 16:34:5:962
+jul 07, 2018 4:34:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:34:5:984
+jul 07, 2018 4:34:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:34:5:987
+jul 07, 2018 4:34:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:34:5:990
+jul 07, 2018 4:34:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:34:6:18
+jul 07, 2018 4:34:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:34:6:23
+jul 07, 2018 4:34:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:34:6:26
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 25.5.197.174 tiempo: 16:34:30:437
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 25.5.197.174 tiempo: 16:34:30:508
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:34:30:529
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:34:30:533
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:34:30:536
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:34:30:561
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:34:30:564
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:34:30:567
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:34:30:607
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:34:30:611
+jul 07, 2018 4:34:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:34:30:614
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.245.135 tiempo: 16:34:52:488
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.245.135 tiempo: 16:34:52:647
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:34:52:752
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:34:52:754
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:34:52:759
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:34:52:825
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:34:52:828
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:34:52:833
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:34:52:934
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:34:52:939
+jul 07, 2018 4:34:52 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:34:52:943
+jul 07, 2018 4:34:53 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:34:53:160
+jul 07, 2018 4:34:53 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:34:53:163
+jul 07, 2018 4:34:53 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:34:53:167
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.176.219 tiempo: 16:35:10:547
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.176.219 tiempo: 16:35:10:653
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:35:10:717
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:35:10:721
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:35:10:725
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:35:10:812
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:35:10:815
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:35:10:818
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:35:10:901
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:35:10:905
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:35:10:912
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:35:10:983
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:35:10:987
+jul 07, 2018 4:35:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:35:10:996
+jul 07, 2018 4:35:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:35:11:83
+jul 07, 2018 4:35:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:35:11:89
+jul 07, 2018 4:35:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:35:11:94
+jul 07, 2018 4:35:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:35:46:290
+jul 07, 2018 4:35:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:35:58:800
+jul 07, 2018 4:36:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:36:9:128
+jul 07, 2018 4:36:17 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:36:17:8
+jul 07, 2018 4:36:48 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:36:48:1
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.139.147 tiempo: 16:40:10:145
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.139.147 tiempo: 16:40:10:241
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:40:10:289
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:40:10:292
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:40:10:297
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:40:10:428
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:40:10:433
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:40:10:437
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:40:10:606
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:40:10:611
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:40:10:616
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:40:10:689
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:40:10:695
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:40:10:699
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 16:40:10:874
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 16:40:10:945
+jul 07, 2018 4:40:10 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 16:40:10:949
+jul 07, 2018 4:40:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:40:11:1
+jul 07, 2018 4:40:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:40:11:6
+jul 07, 2018 4:40:11 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:40:11:10
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.26.183 tiempo: 16:40:34:49
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.26.183 tiempo: 16:40:34:118
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 16:40:34:163
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 16:40:34:166
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 16:40:34:169
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:40:34:216
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:40:34:218
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:40:34:221
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:40:34:261
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:40:34:265
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:40:34:271
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:40:34:328
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:40:34:333
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:40:34:340
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:40:34:384
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:40:34:389
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:40:34:392
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 16:40:34:465
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 16:40:34:468
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 16:40:34:470
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:40:34:509
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:40:34:515
+jul 07, 2018 4:40:34 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:40:34:518
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.157.182 tiempo: 16:40:55:149
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.157.182 tiempo: 16:40:55:244
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 16:40:55:283
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 16:40:55:288
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 16:40:55:291
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 16:40:55:506
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 16:40:55:508
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 16:40:55:511
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:40:55:625
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:40:55:630
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:40:55:634
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:40:55:845
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:40:55:850
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:40:55:856
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:40:55:942
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:40:55:945
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:40:55:948
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:40:55:976
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:40:55:980
+jul 07, 2018 4:40:55 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:40:55:984
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 16:40:56:76
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 16:40:56:80
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 16:40:56:82
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:40:56:122
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:40:56:128
+jul 07, 2018 4:40:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:40:56:131
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.235.14 tiempo: 16:41:9:291
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.235.14 tiempo: 16:41:9:367
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 16:41:9:391
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 16:41:9:394
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 16:41:9:397
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 16:41:9:425
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 16:41:9:429
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 16:41:9:432
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 16:41:9:486
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 16:41:9:531
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 16:41:9:541
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:41:9:609
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:41:9:629
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:41:9:633
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:41:9:659
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:41:9:662
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:41:9:664
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:41:9:740
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:41:9:745
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:41:9:748
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:41:9:791
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:41:9:796
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:41:9:801
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 16:41:9:854
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 16:41:9:858
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 16:41:9:861
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:41:9:909
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:41:9:916
+jul 07, 2018 4:41:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:41:9:919
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.143.163 tiempo: 16:44:57:709
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.143.163 tiempo: 16:44:57:781
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 16:44:57:808
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 16:44:57:812
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 16:44:57:815
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 16:44:57:841
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 16:44:57:844
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 16:44:57:847
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 16:44:57:926
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 16:44:57:936
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 16:44:57:941
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 16:44:57:967
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 16:44:57:972
+jul 07, 2018 4:44:57 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 16:44:57:975
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 16:44:58:126
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 16:44:58:130
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 16:44:58:133
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 16:44:58:183
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 16:44:58:188
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 16:44:58:191
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 16:44:58:219
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 16:44:58:222
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 16:44:58:225
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 16:44:58:246
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 16:44:58:250
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 16:44:58:252
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 16:44:58:289
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 16:44:58:296
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 16:44:58:299
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 16:44:58:431
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 16:44:58:434
+jul 07, 2018 4:44:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 16:44:58:436
+jul 07, 2018 4:45:32 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 192.168.1.103 tiempo: 16:45:32:165
+jul 07, 2018 4:45:37 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 192.168.56.1 tiempo: 16:45:37:72
+jul 07, 2018 4:45:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 25.5.197.174 tiempo: 16:45:40:583
+jul 07, 2018 4:45:43 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.245.135 tiempo: 16:45:43:776
+jul 07, 2018 4:45:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.176.219 tiempo: 16:45:50:357
+jul 07, 2018 4:45:54 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.139.147 tiempo: 16:45:54:536
+jul 07, 2018 4:46:00 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.26.183 tiempo: 16:46:0:684
+jul 07, 2018 4:46:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.157.182 tiempo: 16:46:4:840
+jul 07, 2018 4:46:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.235.14 tiempo: 16:46:8:660
+jul 07, 2018 4:46:14 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 16:46:14:34
+jul 07, 2018 4:46:17 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 16:46:17:823
+jul 07, 2018 4:46:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 16:46:20:731
+jul 07, 2018 4:46:23 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 16:46:23:62
+jul 07, 2018 4:46:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 16:46:25:318
+jul 07, 2018 5:06:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.1.103 tiempo: 17:6:0:772
+jul 07, 2018 5:06:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.1.103 tiempo: 17:6:1:586
+jul 07, 2018 5:06:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:6:1:629
+jul 07, 2018 5:06:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:6:1:632
+jul 07, 2018 5:06:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:6:1:636
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 192.168.56.1 tiempo: 17:6:21:100
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 192.168.56.1 tiempo: 17:6:21:167
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:6:21:197
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:6:21:201
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:6:21:205
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:6:21:244
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:6:21:249
+jul 07, 2018 5:06:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:6:21:251
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 25.5.197.174 tiempo: 17:6:36:451
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 25.5.197.174 tiempo: 17:6:36:521
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:6:36:546
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:6:36:549
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:6:36:556
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:6:36:582
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:6:36:584
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:6:36:587
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:6:36:618
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:6:36:623
+jul 07, 2018 5:06:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:6:36:625
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.245.135 tiempo: 17:6:50:771
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.245.135 tiempo: 17:6:50:836
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:6:50:901
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:6:50:904
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:6:50:907
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:6:50:931
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:6:50:939
+jul 07, 2018 5:06:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:6:50:942
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:6:50:999
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:6:51:2
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:6:51:6
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:6:51:75
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:6:51:81
+jul 07, 2018 5:06:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:6:51:83
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.176.219 tiempo: 17:7:8:261
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.176.219 tiempo: 17:7:8:327
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:7:8:359
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:7:8:364
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:7:8:367
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:7:8:402
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:7:8:406
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:7:8:408
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:7:8:439
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:7:8:443
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:7:8:447
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:7:8:502
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:7:8:506
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:7:8:508
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:7:8:563
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:7:8:566
+jul 07, 2018 5:07:08 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:7:8:571
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.139.147 tiempo: 17:7:24:134
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.139.147 tiempo: 17:7:24:278
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:7:24:592
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:7:24:597
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:7:24:601
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:7:24:666
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:7:24:670
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:7:24:674
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:7:24:752
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:7:24:756
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:7:24:761
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:7:24:925
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:7:24:929
+jul 07, 2018 5:07:24 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:7:24:933
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:7:25:61
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:7:25:66
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:7:25:69
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:7:25:242
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:7:25:246
+jul 07, 2018 5:07:25 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:7:25:249
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.26.183 tiempo: 17:7:39:713
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.26.183 tiempo: 17:7:39:796
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:7:39:855
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:7:39:859
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:7:39:862
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:7:39:933
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:7:39:937
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:7:39:939
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:7:39:970
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:7:39:975
+jul 07, 2018 5:07:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:7:39:980
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:7:40:35
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:7:40:38
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:7:40:44
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:7:40:75
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:7:40:79
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:7:40:83
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:7:40:153
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:7:40:157
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:7:40:163
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:7:40:279
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:7:40:283
+jul 07, 2018 5:07:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:7:40:287
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.157.182 tiempo: 17:7:58:685
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.157.182 tiempo: 17:7:58:749
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:7:58:817
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:7:58:821
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:7:58:824
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:7:58:861
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:7:58:864
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:7:58:867
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:7:58:922
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:7:58:927
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:7:58:930
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:7:58:968
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:7:58:975
+jul 07, 2018 5:07:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:7:58:980
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:7:59:18
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:7:59:23
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:7:59:26
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:7:59:88
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:7:59:96
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:7:59:99
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:7:59:134
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:7:59:137
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:7:59:140
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:7:59:189
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:7:59:194
+jul 07, 2018 5:07:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:7:59:201
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.235.14 tiempo: 17:8:16:168
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.235.14 tiempo: 17:8:16:250
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:8:16:275
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:8:16:279
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:8:16:281
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:8:16:312
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:8:16:316
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:8:16:319
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:8:16:383
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:8:16:442
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:8:16:446
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:8:16:532
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:8:16:536
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:8:16:540
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:8:16:621
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:8:16:626
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:8:16:632
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:8:16:666
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:8:16:670
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:8:16:674
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:8:16:733
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:8:16:737
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:8:16:741
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:8:16:784
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:8:16:788
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:8:16:791
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:8:16:840
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:8:16:850
+jul 07, 2018 5:08:16 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:8:16:860
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.143.163 tiempo: 17:8:35:414
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.143.163 tiempo: 17:8:35:489
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:8:35:549
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:8:35:552
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:8:35:556
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:8:35:588
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:8:35:593
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:8:35:595
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:8:35:659
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:8:35:662
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:8:35:666
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:8:35:699
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:8:35:708
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:8:35:713
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:8:35:767
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:8:35:772
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:8:35:780
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:8:35:835
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:8:35:844
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:8:35:850
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:8:35:885
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:8:35:895
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:8:35:899
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:8:35:961
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:8:35:966
+jul 07, 2018 5:08:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:8:35:970
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:8:36:53
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:8:36:58
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:8:36:61
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:8:36:103
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:8:36:107
+jul 07, 2018 5:08:36 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:8:36:110
+jul 07, 2018 5:09:03 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:3:539
+jul 07, 2018 5:09:07 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:7:520
+jul 07, 2018 5:09:09 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:9:586
+jul 07, 2018 5:09:14 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:14:928
+jul 07, 2018 5:09:17 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:17:138
+jul 07, 2018 5:09:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.143.163 tiempo: 17:9:19:323
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.198.53 tiempo: 17:11:1:616
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.198.53 tiempo: 17:11:1:690
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:11:1:734
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:11:1:737
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:11:1:739
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:11:1:774
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:11:1:781
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:11:1:785
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:11:1:861
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:11:1:864
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:11:1:868
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:11:1:931
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:11:1:937
+jul 07, 2018 5:11:01 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:11:1:939
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:11:2:61
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:11:2:65
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:11:2:72
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:11:2:197
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:11:2:203
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:11:2:206
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:11:2:282
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:11:2:286
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:11:2:289
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:11:2:328
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:11:2:331
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:11:2:333
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:11:2:373
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:11:2:375
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:11:2:377
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:11:2:440
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:11:2:444
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:11:2:448
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:11:2:538
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:11:2:541
+jul 07, 2018 5:11:02 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:11:2:543
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.230.206 tiempo: 17:11:18:64
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.230.206 tiempo: 17:11:18:163
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:11:18:403
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:11:18:416
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:11:18:419
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:11:18:467
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:11:18:474
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:11:18:478
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:11:18:526
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:11:18:533
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:11:18:539
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:11:18:695
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:11:18:698
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:11:18:701
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:11:18:736
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:11:18:742
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:11:18:748
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:11:18:799
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:11:18:802
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:11:18:804
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:11:18:854
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:11:18:867
+jul 07, 2018 5:11:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:11:18:872
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:11:19:37
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:11:19:44
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:11:19:48
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:11:19:289
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:11:19:292
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:11:19:294
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:11:19:556
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:11:19:565
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:11:19:568
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:11:19:708
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:11:19:710
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:11:19:750
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:11:19:975
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:11:19:981
+jul 07, 2018 5:11:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:11:19:984
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.246.22 tiempo: 17:11:39:279
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.246.22 tiempo: 17:11:39:348
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:11:39:413
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:11:39:416
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:11:39:419
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:11:39:446
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:11:39:454
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:11:39:457
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:11:39:507
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:11:39:512
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:11:39:516
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:11:39:547
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:11:39:553
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:11:39:558
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:11:39:611
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:11:39:614
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:11:39:616
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:11:39:666
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:11:39:669
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:11:39:675
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:11:39:744
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:11:39:747
+jul 07, 2018 5:11:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:11:39:750
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:11:40:15
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:11:40:18
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:11:40:20
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:11:40:501
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:11:40:503
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:11:40:506
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:11:40:632
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:11:40:635
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:11:40:638
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:11:40:792
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:11:40:795
+jul 07, 2018 5:11:40 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:11:40:806
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:11:41:55
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:11:41:327
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:11:41:331
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:11:41:369
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:11:41:373
+jul 07, 2018 5:11:41 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:11:41:375
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.78.187 tiempo: 17:11:58:112
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.78.187 tiempo: 17:11:58:190
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:11:58:222
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:11:58:226
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:11:58:231
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:11:58:257
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:11:58:260
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:11:58:269
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:11:58:341
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:11:58:346
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:11:58:353
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:11:58:388
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:11:58:393
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:11:58:397
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:11:58:464
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:11:58:468
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:11:58:471
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:11:58:522
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:11:58:526
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:11:58:528
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:11:58:576
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:11:58:579
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:11:58:582
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:11:58:646
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:11:58:655
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:11:58:665
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:11:58:717
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:11:58:721
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:11:58:727
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:11:58:777
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:11:58:780
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:11:58:786
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:11:58:819
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:11:58:823
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:11:58:825
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:11:58:875
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:11:58:879
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:11:58:881
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:11:58:945
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:11:58:953
+jul 07, 2018 5:11:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:11:58:958
+jul 07, 2018 5:11:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:11:59:12
+jul 07, 2018 5:11:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:11:59:15
+jul 07, 2018 5:11:59 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:11:59:18
+jul 07, 2018 5:12:18 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.73.148 tiempo: 17:12:18:966
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.73.148 tiempo: 17:12:19:126
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:12:19:230
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:12:19:234
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:12:19:238
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:12:19:291
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:12:19:293
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:12:19:295
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:12:19:362
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:12:19:365
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:12:19:369
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:12:19:534
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:12:19:538
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:12:19:540
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:12:19:658
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:12:19:671
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:12:19:675
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:12:19:729
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:12:19:733
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:12:19:736
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:12:19:970
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:12:19:975
+jul 07, 2018 5:12:19 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:12:19:979
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:12:20:439
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:12:20:443
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:12:20:447
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:12:20:768
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:12:20:772
+jul 07, 2018 5:12:20 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:12:20:775
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:12:21:13
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:12:21:15
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:12:21:19
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:12:21:95
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:12:21:98
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:12:21:100
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:12:21:147
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:12:21:187
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:12:21:191
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:12:21:275
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:12:21:280
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:12:21:289
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:12:21:446
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:12:21:450
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:12:21:452
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:12:21:530
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:12:21:533
+jul 07, 2018 5:12:21 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:12:21:535
+jul 07, 2018 5:14:32 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.73.148 tiempo: 17:14:32:70
+jul 07, 2018 5:14:35 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.73.148 tiempo: 17:14:35:603
+jul 07, 2018 5:14:39 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.73.148 tiempo: 17:14:39:51
+jul 07, 2018 5:14:42 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.73.148 tiempo: 17:14:42:79
+jul 07, 2018 5:14:44 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.73.148 tiempo: 17:14:44:502
+jul 07, 2018 5:17:27 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.94.116 tiempo: 17:17:26:697
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.94.116 tiempo: 17:17:29:660
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:17:29:715
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:17:29:719
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:17:29:721
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:17:29:776
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:17:29:781
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:17:29:787
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:17:29:833
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:17:29:851
+jul 07, 2018 5:17:29 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:17:29:854
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:17:30:89
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:17:30:92
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:17:30:94
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:17:30:123
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:17:30:125
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:17:30:127
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:17:30:176
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:17:30:180
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:17:30:182
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:17:30:250
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:17:30:253
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:17:30:255
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:17:30:391
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:17:30:394
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:17:30:397
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:17:30:479
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:17:30:483
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:17:30:487
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:17:30:713
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:17:30:718
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:17:30:720
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.116 tiempo: 17:17:30:973
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.116 tiempo: 17:17:30:977
+jul 07, 2018 5:17:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.116 tiempo: 17:17:30:981
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:17:31:46
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:17:31:49
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:17:31:55
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:17:31:115
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:17:31:125
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:17:31:127
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:17:31:166
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:17:31:169
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:17:31:249
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:17:31:427
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:17:31:431
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:17:31:436
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:17:31:480
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:17:31:483
+jul 07, 2018 5:17:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:17:31:489
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.251.131 tiempo: 17:17:46:308
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.251.131 tiempo: 17:17:46:411
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:17:46:513
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:17:46:517
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:17:46:523
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:17:46:612
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:17:46:616
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:17:46:620
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:17:46:682
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:17:46:685
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:17:46:687
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:17:46:727
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:17:46:731
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:17:46:733
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:17:46:780
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:17:46:783
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:17:46:787
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:17:46:811
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:17:46:814
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:17:46:816
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:17:46:883
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:17:46:888
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:17:46:892
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:17:46:925
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:17:46:931
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:17:46:933
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:17:46:974
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:17:46:982
+jul 07, 2018 5:17:46 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:17:46:995
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:17:47:36
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:17:47:39
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:17:47:41
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.116 tiempo: 17:17:47:82
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.116 tiempo: 17:17:47:87
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.116 tiempo: 17:17:47:92
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:17:47:166
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:17:47:169
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:17:47:172
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:17:47:214
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:17:47:217
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:17:47:221
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:17:47:337
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:17:47:376
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:17:47:381
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:17:47:452
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:17:47:458
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:17:47:459
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.251.131 tiempo: 17:17:47:538
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.251.131 tiempo: 17:17:47:561
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.251.131 tiempo: 17:17:47:563
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:17:47:694
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:17:47:698
+jul 07, 2018 5:17:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:17:47:701
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.142.199 tiempo: 17:18:4:337
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.142.199 tiempo: 17:18:4:412
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:18:4:440
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:18:4:451
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:18:4:454
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:18:4:491
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:18:4:495
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:18:4:497
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:18:4:550
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:18:4:555
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:18:4:559
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:18:4:590
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:18:4:595
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:18:4:598
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:18:4:666
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:18:4:668
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:18:4:671
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:18:4:743
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:18:4:748
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:18:4:750
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:18:4:811
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:18:4:815
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:18:4:817
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:18:4:880
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:18:4:884
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:18:4:887
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:18:4:923
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:18:4:926
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:18:4:931
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:18:4:975
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:18:4:979
+jul 07, 2018 5:18:04 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:18:4:981
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.116 tiempo: 17:18:5:83
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.116 tiempo: 17:18:5:87
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.116 tiempo: 17:18:5:90
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.142.199 tiempo: 17:18:5:154
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.142.199 tiempo: 17:18:5:160
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.142.199 tiempo: 17:18:5:164
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:18:5:208
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:18:5:210
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:18:5:213
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:18:5:248
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:18:5:251
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:18:5:254
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:18:5:323
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:18:5:337
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:18:5:342
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:18:5:416
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:18:5:418
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:18:5:421
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.251.131 tiempo: 17:18:5:895
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.251.131 tiempo: 17:18:5:898
+jul 07, 2018 5:18:05 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.251.131 tiempo: 17:18:5:900
+jul 07, 2018 5:18:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:18:6:125
+jul 07, 2018 5:18:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:18:6:126
+jul 07, 2018 5:18:06 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:18:6:129
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.129.66 tiempo: 17:18:30:315
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.129.66 tiempo: 17:18:30:386
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:18:30:466
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:18:30:469
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:18:30:471
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:18:30:506
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:18:30:511
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:18:30:515
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:18:30:564
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:18:30:566
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:18:30:569
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:18:30:626
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:18:30:634
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:18:30:637
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:18:30:666
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:18:30:669
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:18:30:674
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:18:30:717
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:18:30:722
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:18:30:726
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:18:30:784
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:18:30:787
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:18:30:791
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:18:30:860
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:18:30:865
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:18:30:870
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:18:30:946
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:18:30:949
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:18:30:952
+jul 07, 2018 5:18:30 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:18:30:996
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:18:30:999
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:18:31:2
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.116 tiempo: 17:18:31:55
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.116 tiempo: 17:18:31:60
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.116 tiempo: 17:18:31:63
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.142.199 tiempo: 17:18:31:103
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.142.199 tiempo: 17:18:31:106
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.142.199 tiempo: 17:18:31:111
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:18:31:137
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:18:31:140
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:18:31:145
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:18:31:178
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:18:31:186
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:18:31:196
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:18:31:244
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:18:31:246
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:18:31:249
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.129.66 tiempo: 17:18:31:304
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.129.66 tiempo: 17:18:31:316
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.129.66 tiempo: 17:18:31:321
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:18:31:421
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:18:31:425
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:18:31:427
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.251.131 tiempo: 17:18:31:621
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.251.131 tiempo: 17:18:31:645
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.251.131 tiempo: 17:18:31:648
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:18:31:701
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:18:31:704
+jul 07, 2018 5:18:31 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:18:31:706
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Solicitando agregar nodo 169.254.94.187 tiempo: 17:18:49:719
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Agregado nodo 169.254.94.187 tiempo: 17:18:49:783
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.246.22 tiempo: 17:18:49:829
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.246.22 tiempo: 17:18:49:832
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.246.22 tiempo: 17:18:49:833
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.157.182 tiempo: 17:18:49:872
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.157.182 tiempo: 17:18:49:875
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.157.182 tiempo: 17:18:49:876
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.230.206 tiempo: 17:18:49:930
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.230.206 tiempo: 17:18:49:939
+jul 07, 2018 5:18:49 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.230.206 tiempo: 17:18:49:943
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.198.53 tiempo: 17:18:50:18
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.198.53 tiempo: 17:18:50:23
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.198.53 tiempo: 17:18:50:29
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.26.183 tiempo: 17:18:50:100
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.26.183 tiempo: 17:18:50:105
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.26.183 tiempo: 17:18:50:107
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.235.14 tiempo: 17:18:50:165
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.235.14 tiempo: 17:18:50:169
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.235.14 tiempo: 17:18:50:172
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.176.219 tiempo: 17:18:50:216
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.176.219 tiempo: 17:18:50:221
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.176.219 tiempo: 17:18:50:223
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.143.163 tiempo: 17:18:50:269
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.143.163 tiempo: 17:18:50:273
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.143.163 tiempo: 17:18:50:276
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.1.103 tiempo: 17:18:50:345
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.1.103 tiempo: 17:18:50:348
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.1.103 tiempo: 17:18:50:351
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 192.168.56.1 tiempo: 17:18:50:409
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 192.168.56.1 tiempo: 17:18:50:413
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 192.168.56.1 tiempo: 17:18:50:416
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.116 tiempo: 17:18:50:458
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.116 tiempo: 17:18:50:461
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.116 tiempo: 17:18:50:471
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.142.199 tiempo: 17:18:50:538
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.142.199 tiempo: 17:18:50:545
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.142.199 tiempo: 17:18:50:552
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.245.135 tiempo: 17:18:50:602
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.245.135 tiempo: 17:18:50:605
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.245.135 tiempo: 17:18:50:609
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.73.148 tiempo: 17:18:50:680
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.73.148 tiempo: 17:18:50:684
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.73.148 tiempo: 17:18:50:688
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.94.187 tiempo: 17:18:50:728
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.94.187 tiempo: 17:18:50:732
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.94.187 tiempo: 17:18:50:734
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.139.147 tiempo: 17:18:50:855
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.139.147 tiempo: 17:18:50:858
+jul 07, 2018 5:18:50 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.139.147 tiempo: 17:18:50:860
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.129.66 tiempo: 17:18:50:999
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.129.66 tiempo: 17:18:51:1
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.129.66 tiempo: 17:18:51:5
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.78.187 tiempo: 17:18:51:82
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.78.187 tiempo: 17:18:51:89
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.78.187 tiempo: 17:18:51:91
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 169.254.251.131 tiempo: 17:18:51:140
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 169.254.251.131 tiempo: 17:18:51:143
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 169.254.251.131 tiempo: 17:18:51:145
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Generando Finger 25.5.197.174 tiempo: 17:18:51:313
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Generado 25.5.197.174 tiempo: 17:18:51:320
+jul 07, 2018 5:18:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Finger Almacenado 25.5.197.174 tiempo: 17:18:51:323
+jul 07, 2018 5:19:47 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.94.187 tiempo: 17:19:47:681
+jul 07, 2018 5:19:51 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.94.187 tiempo: 17:19:51:763
+jul 07, 2018 5:19:54 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.94.187 tiempo: 17:19:54:111
+jul 07, 2018 5:19:56 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.94.187 tiempo: 17:19:56:609
+jul 07, 2018 5:19:58 PM com.Utils.LoggerUtil Log
+INFORMACIÓN: Buscando Recurso 169.254.94.187 tiempo: 17:19:58:855

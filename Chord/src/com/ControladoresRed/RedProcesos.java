@@ -59,7 +59,9 @@ public class RedProcesos extends Thread {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
+        }catch (Exception e) {
         }
+        
     }
 
     /**
